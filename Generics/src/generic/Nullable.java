@@ -1,4 +1,4 @@
-package generic;
+package generic; //Genericler ilkel veri tipleri ile değil, kendi oluşturduğu ya da wrapper türündeki değişkenlerle çalışmaktadır.
 
 public class Nullable <T> { //sınıfa bir parametre veriyoruz. veri tiplerini ifade eder.
     private final T value;
